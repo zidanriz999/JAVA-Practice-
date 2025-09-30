@@ -1,6 +1,6 @@
 //package JAVA_OOP;
 //import java.util.Scanner;
-public class JAVA_Basic {
+//public class JAVA_Basic {
 //    public static void main(String[] args) {
 //
 ////        Scanner sc = new Scanner (System.in);
@@ -67,7 +67,7 @@ public class JAVA_Basic {
 //
 //
 // }
-    public static void main(String[] args) {
-          // Exception handling
-    }
-}
+
+
+//    }
+//}
