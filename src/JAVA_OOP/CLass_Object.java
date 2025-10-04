@@ -28,6 +28,7 @@ class Person{
         System.out.println(name +" "+"is walking.");
     }
     void eat(){
+
         System.out.println(name + " "+"is eating.");
     }
 
